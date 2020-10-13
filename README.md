@@ -5,14 +5,12 @@
 <h1>
     <img src="https://ik.imagekit.io/michaeldouglas/happy_index_GdAszxpFu.PNG">
 </h1>
-</br>
 
 ## 📜Sobre
 
 **Happy** é um projeto Web e Mobile para encontrar e cadastrar orfanatos, foi criado na semana **NextLevelWeek3** com o intuito de facilitar o acesso de pessoas a encontrar e visitar os locais trazendo um sorriso para as crianças.   
 
 ---
-</br>
 
 ## 🚀Tecnologias utilizadas
 O projeto foi desenvolvido  utilizando as seguintes tecnologias
@@ -38,7 +36,6 @@ O projeto foi desenvolvido  utilizando as seguintes tecnologias
 </p>
 
 ---
-</br>
 
 ## 👨🏽‍💻Author
 - Michael Douglas - [MichaelDouglasPIX](https://github.com/MichaelDouglasPIX)
