@@ -30,8 +30,14 @@ O projeto foi desenvolvido  utilizando as seguintes tecnologias
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="-blank" title="CSS3">
     <img 
     src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="css3" 
-    width="40" 
-    height="40">
+    width="35" 
+    height="35">
+    </a>
+    <a href="https://leafletjs.com/" target="-blank" title="Leaflet">
+    <img 
+    src="https://ik.imagekit.io/michaeldouglas/leaflet_Q3j-0QyQ8.png" alt="Leaflet" 
+    width="35" 
+    height="35">
     </a>
 </p>
 
