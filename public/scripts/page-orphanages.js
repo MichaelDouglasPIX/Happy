@@ -18,7 +18,7 @@ const popup = L.popup({
     className: 'map-popup',
     minWidth: 240,
     minHeight:240
-}).setContent('Lar das meninas <a href="orphanages.html?=1" class="choose-orphanage"><img src="./public/images/arrow-white.svg"></a>');
+}).setContent('Lar das meninas <a href="orphanage.html?=1" class="choose-orphanage"><img src="./public/images/arrow-white.svg"></a>');
 
 //Cria uma marcação no mapa com base nas coordenadas
 L.marker([-23.5718345,-46.6609128], {icon})
