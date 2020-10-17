@@ -29,3 +29,7 @@ main{
     border-radius: 2rem;
     cursor: pointer;
 }
+
+.new-upload + .new-upload{
+    margin-top: 2.4rem;
+}
